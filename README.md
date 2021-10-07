@@ -12,7 +12,7 @@ Ask user for 2 numbers.
 
 Print a box on the screen with the dimensions X by Y corresponding to the user inputed numbers 
 
-Once this is complete then 
+Once this is complete then continue to part 2
 
 ### Ex Input:
 
