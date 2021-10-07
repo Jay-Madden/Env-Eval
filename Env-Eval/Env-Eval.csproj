@@ -5,10 +5,5 @@
         <TargetFramework>net5.0</TargetFramework>
         <RootNamespace>Env_Eval</RootNamespace>
     </PropertyGroup>
-    <ItemGroup>
-        <Content Include="../Part2Input.txt">
-            <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-        </Content>
-    </ItemGroup>
 
 </Project>
