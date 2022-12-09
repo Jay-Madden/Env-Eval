@@ -1,8 +1,7 @@
 # Setup: 
 1. Clone the repo
-2. Create a new branch to work off of
-3. Create a new class in the "Answers" directory with the name "YourNameAns.cs"
-4. Inherit from the Interface IAnswer and implement its members
+2. Create a new class in the "Answers" directory with the name "YourNameAns.cs"
+3. Inherit from the Interface IAnswer and implement its members
 
 ## Challenge 1: 
 
@@ -60,8 +59,3 @@ In the root of the repo there is a text file name "Part2Input.txt". Read it into
     R
     R
     R
-
-
-# Finishing Up
-
-Once finished commit your changes, push your branch up to to remote repo and do a Github pull request
