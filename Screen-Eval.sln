@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Env-Eval", "Env-Eval\Env-Eval.csproj", "{68730F59-19C8-40FA-A9AE-3FE9AF14E0DB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenEval", "ScreenEval\ScreenEval.csproj", "{68730F59-19C8-40FA-A9AE-3FE9AF14E0DB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

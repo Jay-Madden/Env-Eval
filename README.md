@@ -30,7 +30,10 @@ User enters 3 and 5
 
 In the "Part2" function
 
-In the root of the repo there is a text file name "Part2Input.txt". Read it into the program and print out the boxes with sizes corresponding with the given XY values. And with the boxes being composed of the given character from the input with the  format of \<X\>:\<Y\>:\<Character\>
+In the root of the repo there is a text file name "Part2Input.txt". Read it into the program and print out the boxes with sizes corresponding with the given XY values. And with the boxes being composed of the given character from the input with the  format of 
+```
+\<X\>:\<Y\>:\<Character\>
+```
 
 (Hint: you will have to remember to tell msbuild to copy the file to the output directory)
 
