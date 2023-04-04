@@ -1,7 +1,7 @@
 # Setup: 
 1. Clone the repo
 2. Create a new class in the "Answers" directory with the name "YourNameAns.cs"
-3. Inherit from the Interface `IAnswer` and implement its members
+3. Implement the Interface `IAnswer` on the class you just created
 
 ## Challenge 1: 
 
