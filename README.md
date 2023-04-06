@@ -1,6 +1,6 @@
 # Setup: 
 1. Clone the repo
-2. Create a new class in the "Answers" directory with the name "YourNameAns.cs"
+2. Create a new class in the "Answers" directory with the name "\<YourName\>Ans.cs"
 3. Implement the Interface `IAnswer` on the class you just created
 
 ## Challenge 1: 
@@ -13,9 +13,12 @@ Print a box on the screen with the dimensions X by Y corresponding to the number
 
 Once this is complete then continue to part 2
 
-### Example Input:
+### Example Input 1:
 
-User enters 3 and 5
+    Please Enter X:
+    3
+    Please Enter Y:
+    5
 
 ### Output:
 
@@ -24,7 +27,22 @@ User enters 3 and 5
     X X
     X X
     XXX
+    
+### Example Input 2:
 
+    Please Enter X:
+    7
+    Please Enter Y:
+    4
+
+### Output:
+
+    XXXXXXX
+    X     X
+    X     X
+    XXXXXXX
+
+ 
 ## Challenge 2:
 
 In the "Part2" function
